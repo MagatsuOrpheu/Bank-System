@@ -15,7 +15,7 @@ All withdrawals must be stored in a variable and be available in the bank statem
 
 The Statement operation must include all deposits and withdrawals made to the account, and at the end return the current balance of the account.
 
-The format used must be: R$ xxxx.xx
+The used format must be: R$ xxxx.xx
 
 ### This section is for the updates of the version 2.0
 
